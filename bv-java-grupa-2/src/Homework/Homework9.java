@@ -1,3 +1,5 @@
+package Homework;
+
 public class Homework9{
 	public static void main (String[] args){
 		int start=6; 

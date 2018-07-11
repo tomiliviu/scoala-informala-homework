@@ -1,4 +1,6 @@
-import java.util.*;   
+package Homework;
+
+import java.util.*;
    public class Homework4{  
       public static void main(String args[]){ 
 

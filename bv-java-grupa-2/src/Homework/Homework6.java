@@ -1,3 +1,5 @@
+package Homework;
+
 public class Homework6{
 	public static void main (String[] args){	 
       int L=8;
